@@ -172,7 +172,7 @@ class MainActivity : AppCompatActivity() {
                 }
                 .show()
         }else {
-            Toast.makeText(this, "Please allow permission to download image", Toast.LENGTH_LONG).show()
+            Toast.makeText(this, "Please allow permission to download image to the gallery", Toast.LENGTH_LONG).show()
         }
     }
 
